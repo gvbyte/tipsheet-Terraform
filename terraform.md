@@ -19,7 +19,6 @@
   - [terraform providers](#terraform-providers)
   - [terraform workspace](#terraform-workspace)
 - [Integrations](#integrations)
-  - [signalfx](#signalfx)
 
 ## <center><a name="about" ></a>About Terraform CLI (Command Line Interface)
 
